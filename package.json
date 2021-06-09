@@ -1,12 +1,12 @@
 {
-  "name": "@bulletfinance/eslint-config-bullet",
+  "name": "@pancakeswap-libs/eslint-config-pancake",
   "version": "1.0.0",
-  "description": "Eslint config for BulletSwap",
+  "description": "Eslint config for PancakeSwap",
   "main": "lib/index.js",
   "files": [
     "lib"
   ],
-  "repository": "git@github.com:bulletfinance/eslint-config-bullet.git",
+  "repository": "git@github.com:pancakeswap/eslint-config-pancake.git",
   "license": "MIT",
   "author": "RabbitDoge",
   "private": false,
